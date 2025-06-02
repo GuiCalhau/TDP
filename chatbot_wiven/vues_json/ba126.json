@@ -1,0 +1,20 @@
+{
+  "id": "ba126",
+  "titre": "Écran ba126 : Formats d’éditions",
+  "applications": [
+    "ad100e01 : Impression des commandes d’achat",
+    "ad100e02 : Liste des adresses par intitulé court (format page)",
+    "ad102e63 : Étiquettes laser 14x (105/38,1) par secteur, branche, intitulé"
+  ],
+  "fonctionnalites": [
+    "Impression des adresses pour les commandes d’achat",
+    "Export ‘mailing’ pour MS-WORD6 par intitulé court",
+    "Enveloppes C5",
+    "Étiquettes en continu / laser par différents critères"
+  ],
+  "champs_et_boutons": {
+    "boutons": ["Modifier", "Rétablir", "Ajouter", "Copier", "Effacer", "Annuler"],
+    "cases_a_cocher": ["Visible", "Visualisation WORD"]
+  },
+  "description": "Cet écran permet de configurer les formats d'impression..."
+}

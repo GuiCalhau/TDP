@@ -1,0 +1,56 @@
+{
+    "id": "ba127",
+    "titre": "Écran ba127 : Formats d’éditions",
+    "applications": [
+        "ac101e01 : Impression des commandes d'achats",
+        "ad100e01 : Liste des adresses par intitulé court (format page)",
+        "ad100e21 : Liste des adresses par branche, secteur, intitulé (format page)",
+        "ad100e31 : Liste des adresses par branche, secteur, intitulé (format long)",
+        "ad100e41 : Liste des adresses par Localité et intitulé court",
+        "ad100e61 : Export 'mailing' pour MS-WORD6 par intitulé court",
+        "ad102e03 : Export 'mailing' pour MS-WORD6 par branche, secteur, intitulé",
+        "ad102e04 : Export 'mailing' pour MS-WORD6 par intitulé court (tous champs)",
+        "ad102e31 : Étiquettes en continu par intitulé court",
+        "ad102e41 : Étiquettes en continu par branche, secteur, intitulé",
+        "ad102e61 : Étiquettes laser 8x (105/67,8) par intitulé court",
+        "ad102e62 : Étiquettes laser 8x (105/67,8) avec noms 3 et 4",
+        "ad102e63 : Étiquettes laser 14x (105/38,1) par intitulé court",
+        "ad102e64 : Étiquettes laser 14x (105/38,1) par branche, secteur, intitulé",
+        "am200e11 : Liste des immobilisations par n° d’objet",
+        "am200e13 : Export Excel des immobilisations par groupe, emplacement et plan",
+        "am200e16 : Liste des immobilisations par groupe de traitement",
+        "am300e11 : Export Excel des amortissements (pour compte C.G.)",
+        "am400e11 : Calcul et imputation des amortissements",
+        "am410e11 : Amortissements et intérêts de l’exercice",
+        "am410e12 : Amortissements et intérêts de l’exercice déjà imputés",
+        "am420e11 : Historique des amortissements",
+        "am450e11 : Historique des mutations d’objets",
+        "ar250e11 : Edition directe du Bon de Livraison/Location",
+        "av610e01 : Liste des dossiers",
+        "av610e02 : Liste des cumuls par dossier",
+        "av620e01 : Etat des vacations"
+    ],
+    "fonctionnalites": [
+        "Gestion des adresses",
+        "Étiquettes",
+        "Listes d'inventaire",
+        "Amortissements et intérêts",
+        "Export Excel",
+        "Gestion des bons du dépôt",
+        "Liste des dossiers",
+        "Etat des vacations"
+    ],
+    "champs_et_boutons": {
+        "boutons": [
+            "Modifier",
+            "Ajouter",
+            "Copier",
+            "Effacer",
+            "Annuler"
+        ],
+        "cases_a_cocher": [
+            "Visible"
+        ]
+    },
+    "description": "Cette capture d'écran présente un autre volet de l'interface utilisateur de votre système ERP. Elle montre un ensemble étendu de programmes et de rapports associés à diverses applications dans l'ERP. Voici une note explicative de cette vue : \n\nColonne Application: Le premier ensemble de codes, comme « ac », « ad », « am », « av », etc., semble représenter différentes catégories d'applications ou de modules au sein de l'ERP. Chaque code est probablement un préfixe qui indique une zone fonctionnelle spécifique, comme l’adresse(ad), les amortissement(am), etc. \n\nColonne Liste/Programme: Cette colonne semble lister des identifiants de rapports ou de fonctions spécifiques au sein de chaque application. Par exemple, « ac101e01 » sous la catégorie « ac » pourrait concerner des impressions spécifiques liées aux commandes d'achats dans le module comptabilité. \n\nColonne Désignation: Ici, chaque fonction ou rapport est décrit pour donner un aperçu de son objectif. Par exemple, « Liste des adresses par intitulé court » sous « ad100e01 » indique que cette fonction génère une liste d'adresses, probablement filtrée par un intitulé court. \n\nColonne Programme (secondaire): Elle donne une désignation plus générale ou une catégorie pour le programme listé dans la colonne Liste/Programme. Par exemple, plusieurs listes sous « ad » appartiennent à la catégorie « Gestion des adresses », tandis que d'autres appartiennent à « Étiquettes », indiquant différentes fonctionnalités ou types de rapports au sein de cette application. \n\nColonne Visible: Indique si le programme ou la liste est visible ou activé pour les utilisateurs. Cela pourrait être utilisé pour activer ou désactiver l'accès à certaines fonctions selon les besoins de l'entreprise. \n\nDétails des programmes: \n\nGestion des adresses: Comprend les fonctionnalités pour manipuler et gérer les adresses pour différentes utilisations, comme les commandes, les étiquettes, et le publipostage. \n\nListes d'inventaire: Permet de créer et gérer des listes d'inventaire, probablement pour le suivi des actifs et des stocks. \n\nAmortissements et intérêts: Inclut les fonctions pour calculer les amortissements et les intérêts, ce qui est crucial pour la comptabilité et la gestion financière des actifs. \n\nGestion des bons du dépôt: Peut se référer à la gestion des dépôts ou des garanties, un élément essentiel pour de nombreuses entreprises. \n\nChaque fonction ou rapport est probablement conçu pour générer des informations spécifiques, aider à la gestion des tâches, ou fournir des données pour l'analyse et la prise de décision. La capacité à activer ou désactiver la visibilité de ces fonctions permet une personnalisation et un contrôle selon les rôles des utilisateurs au sein de l'entreprise. "
+}

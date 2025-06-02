@@ -1,0 +1,34 @@
+{
+    "id": "rs100",
+    "titre": "Écran rs100 : Saisie des rapports de travail",
+    "applications": [
+        "rs100 : Saisie des rapports de travail",
+        "rs109 : Éditions paramétrables RT",
+        "rs110 : Éditions standards RT",
+        "rs111 : Contrôle des lignes RT",
+        "rs220 : Transfert dans les variables salariales"
+    ],
+    "fonctionnalites": [
+        "Saisie des heures travaillées et activités",
+        "Contrôle de cohérence (rs111)",
+        "Export des rapports (rs109, rs110)",
+        "Intégration dans la paie via rs220",
+        "Imputation analytique (rs160)",
+        "Support des lignes d’extourne (corrections)"
+    ],
+    "champs_et_boutons": {
+        "boutons": [
+            "Ajouter ligne RT",
+            "Valider",
+            "Contrôler",
+            "Exporter",
+            "Corriger"
+        ],
+        "cases_a_cocher": [
+            "Inclure lignes inactives",
+            "Afficher tous les employés",
+            "Marquer comme contrôlé"
+        ]
+    },
+    "description": "Le programme rs100 centralise la saisie des temps de travail ou d’activités des employés. Ces informations alimentent directement le calcul des variables de paie et la comptabilité analytique. Des éditions standards ou personnalisées sont disponibles pour le contrôle (rs109/rs110), avec une étape de validation obligatoire (rs111) avant transfert. Ce module est critique pour la cohérence entre la réalité terrain et la paie.\n"
+}
