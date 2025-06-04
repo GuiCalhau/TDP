@@ -69,4 +69,6 @@ Mise en place d’un système **Retrieval-Augmented Generation** avec accès dir
 │   ├── ExemplePlanComptable.xlsx    # Le plan comptable de base 
 │   ├── Salaire.docx      
 │   └── train_qlora.py    # Script pour entrainer LLM
+├── plan-initial.png    # Planning initial du projet
+└── plan-final.png     # Planning final du projet
 ```
